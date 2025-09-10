@@ -105,7 +105,6 @@ With HyperKey, you can create powerful shortcuts, simplify workflows, and maximi
 
 HyperKey is freeware for macOS users.  
 All rights and trademarks belong to their respective owners.  
-This repository provides **documentation and usage guidance only**.  
 
 ---
 
